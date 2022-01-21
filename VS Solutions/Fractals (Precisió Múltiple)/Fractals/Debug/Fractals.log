@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Visual Studio\Fractals\Fractals\main.cpp(8,26): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Visual Studio\Fractals\Fractals\main.cpp(80,73): warning C4244: 'argumento': conversión de 'double' a 'uint8_t'; posible pérdida de datos
+C:\Visual Studio\Fractals\Fractals\main.cpp(157,37): warning C4244: 'argumento': conversión de 'double' a 'uint8_t'; posible pérdida de datos
+C:\Visual Studio\Fractals\Fractals\main.cpp(159,34): warning C4244: 'argumento': conversión de 'double' a 'uint8_t'; posible pérdida de datos
+C:\Visual Studio\Fractals\Fractals\main.cpp(161,37): warning C4244: 'argumento': conversión de 'double' a 'uint8_t'; posible pérdida de datos
+  Fractals.vcxproj -> C:\Visual Studio\Fractals\Debug\Fractals.exe
