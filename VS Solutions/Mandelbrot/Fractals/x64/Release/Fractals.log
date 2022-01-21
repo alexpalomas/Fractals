@@ -1,0 +1,65 @@
+﻿  main.cpp
+C:\TdR_Fractals\Solution\Fractals\Fractals\main.cpp(16,30): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\TdR_Fractals\Solution\Fractals\Fractals\main.cpp(59,174): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=int32_t
+          ]
+C:\TdR_Fractals\Solution\Fractals\Fractals\main.cpp(59,70): warning C4244: 'argumento': conversión de 'T' a 'T'; posible pérdida de datos
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=int32_t
+          ]
+C:\TdR_Fractals\Solution\Fractals\Fractals\main.cpp(151,1): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\TdR_Fractals\Solution\Fractals\Fractals\main.cpp(259,1): warning C4144: '>': expresión relacional como expresión switch
+C:\TdR_Fractals\Solution\Fractals\Fractals\main.cpp(264,101): warning C4244: 'argumento': conversión de 'float' a 'T'; posible pérdida de datos
+          with
+          [
+              T=int32_t
+          ]
+C:\TdR_Fractals\Solution\Fractals\Fractals\main.cpp(267,101): warning C4244: 'argumento': conversión de 'float' a 'T'; posible pérdida de datos
+          with
+          [
+              T=int32_t
+          ]
+C:\TdR_Fractals\Solution\Fractals\Fractals\main.cpp(272,101): warning C4244: 'argumento': conversión de 'float' a 'T'; posible pérdida de datos
+          with
+          [
+              T=int32_t
+          ]
+C:\TdR_Fractals\Solution\Fractals\Fractals\main.cpp(275,101): warning C4244: 'argumento': conversión de 'float' a 'T'; posible pérdida de datos
+          with
+          [
+              T=int32_t
+          ]
+C:\TdR_Fractals\Solution\Fractals\Fractals\main.cpp(298,21): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\TdR_Fractals\Solution\Fractals\Fractals\main.cpp(431,156): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\TdR_Fractals\Solution\Fractals\Fractals\main.cpp(431,104): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\TdR_Fractals\Solution\Fractals\Fractals\main.cpp(431,52): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\TdR_Fractals\Solution\Fractals\Fractals\main.cpp(477,90): warning C4244: 'argumento': conversión de 'float' a 'T'; posible pérdida de datos
+          with
+          [
+              T=int32_t
+          ]
+C:\TdR_Fractals\Solution\Fractals\Fractals\main.cpp(483,1): warning C4144: '>': expresión relacional como expresión switch
+C:\TdR_Fractals\Solution\Fractals\Fractals\main.cpp(522,1): warning C4144: '>': expresión relacional como expresión switch
+C:\TdR_Fractals\Solution\Fractals\Fractals\main.cpp(583,31): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\TdR_Fractals\Solution\Fractals\Fractals\main.cpp(593,21): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\TdR_Fractals\Solution\Fractals\Fractals\main.cpp(614,179): warning C4244: 'argumento': conversión de 'double' a 'uint8_t'; posible pérdida de datos
+C:\TdR_Fractals\Solution\Fractals\Fractals\main.cpp(614,108): warning C4244: 'argumento': conversión de 'double' a 'uint8_t'; posible pérdida de datos
+C:\TdR_Fractals\Solution\Fractals\Fractals\main.cpp(614,37): warning C4244: 'argumento': conversión de 'double' a 'uint8_t'; posible pérdida de datos
+C:\TdR_Fractals\Solution\Fractals\Fractals\main.cpp(622,22): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  Generando código
+  1 of 1414 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    11 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  Fractals.vcxproj -> C:\TdR_Fractals\Solution\Fractals\x64\Release\Fractals.exe
